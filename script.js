@@ -48,13 +48,6 @@ document.querySelector("#pbtm").addEventListener("click", function(dets){
 
 
 
-
-
-
-
-
-
-
 bubbles()
 runtimer()
 hit()
